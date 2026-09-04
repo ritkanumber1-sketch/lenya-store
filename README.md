@@ -1,1 +1,1 @@
-My awesome shop project!
+"# lenya-store"  
